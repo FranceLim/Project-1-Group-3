@@ -2,6 +2,7 @@
 Covid Vaccine
 
 Team Members: Lily Da, Sukhi Kaur, Lena, Thongdara, & Francisco Lim
+
 Project Description: We will focus on Covid datasets in relation to the United States. 
 
 Research Questions to Answer: Is there a relation between poverty and infection rates? 
