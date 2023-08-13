@@ -12,3 +12,7 @@ Datasets to be Used:
 
 
 Rough Breakdown of Tasks:
+Lena Thongdara & Lily Da: New Covid Cases
+Francisco Lim: New Death Cases
+Suhki Kaur: Vaccinations
+John Nguyen:
