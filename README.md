@@ -6,7 +6,7 @@ Team Members: Lily Da, Sukhi Kaur, Lena Thongdara, John Nguyen & Francisco Lim
 Project Description: We will focus on Covid datasets in relation to the United States. 
 
 Research Questions to Answer: 
-  - What is the efficiency of being full vaccinated or partially vaccinated?
+  - What is the efficiency of being fully vaccinated or partially vaccinated?
   - What is the impact of Covid-19 as a population in the United States?
   - Did Covid-19 have an effect on unemployment?
   - How many people quit or were laid off? (what is the correlation?) 
