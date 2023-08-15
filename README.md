@@ -18,5 +18,7 @@ Datasets to be Used: https://covid19.who.int/data
 Rough Breakdown of Tasks:
   - Lena Thongdara & Lily Da: New Covid Cases
   - Francisco Lim: New Death Cases
-  - Suhki Kaur: Vaccinations
+  - Sukhi Kaur: Vaccinations
   - John Nguyen: Finalizing
+
+Presentation link: https://docs.google.com/presentation/d/1dT6USM65Q-cbQwBq41UvBV16GUqcHTRAgd0urBe5Fr8/edit?usp=sharing
